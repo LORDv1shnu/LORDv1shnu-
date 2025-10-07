@@ -2,7 +2,7 @@
 
 # Hey there! I'm Vishnu Nandan 👋
 
-### *Codename: **STRANGER*** 
+### *Codename: **STRANGER***
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Christ+College;Technical+Lead+%40+FOSS+Club+CCE;Building+Open+Source+Products)](https://git.io/typing-svg)
 
@@ -14,15 +14,12 @@
 
 ## 👨‍💻 About Me
 
-```python
-class VishnuNandan:
-    def __init__(self):
-        self.role = "Technical Lead @ FOSS Club CCE"
-        self.education = "B.Tech CSE, Kerala"
-        self.learning = ["Mobile Dev", "AI/ML"]
-        self.languages = ["Python", "C", "Java", "Kotlin", "JS"]
-        self.hobbies = ["Badminton", "Linux", "Open Source"]
-```
+**Technical Lead @ FOSS Club CCE**  
+B.Tech CSE, Kerala
+
+**Learning:** Mobile Dev, AI/ML  
+**Languages:** Python, C, Java, Kotlin, JavaScript  
+**Hobbies:** Badminton, Linux, Open Source
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
