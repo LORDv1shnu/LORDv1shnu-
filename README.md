@@ -15,6 +15,7 @@
 ## 👨‍💻 About Me
 
 **Technical Lead @ FOSS Club CCE**  
+**Christ College of Engineering, Irinjalakuda**  
 B.Tech CSE, Kerala
 
 **Learning:** Mobile Dev, AI/ML  
@@ -96,7 +97,7 @@ Random restaurant discovery app with map integration.
 ## 🤝 Collaborations
 
 **🎮 [Puzhukkeni-ULP2.0](https://github.com/rohanks-hub/Puzhukkeni-ULP2.0)** - Major Contribution  
-Over-engineered alarm clock game built with Flutter. Wake up by tapping worms while dodging birds!
+Over-engineered alarm clock game built with Flutter. Wake up by tapping worms while dodging birds! (as a part of TinkerHub Useless Projects 2.0)
 
 **Stack:** Flutter • Flame Engine
 
