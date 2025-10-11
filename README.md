@@ -2,8 +2,6 @@
 
 # Hey there! I'm Vishnu Nandan 👋
 
-### *Codename: **STRANGER***
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Christ+College;Technical+Lead+%40+FOSS+Club+CCE;Building+Open+Source+Products)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=LORDv1shnu&color=blueviolet&style=for-the-badge)](https://github.com/LORDv1shnu)
@@ -14,6 +12,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 **Technical Lead @ FOSS Club CCE**  
 **Christ College of Engineering, Irinjalakuda**  
 B.Tech CSE, Kerala
@@ -21,8 +21,6 @@ B.Tech CSE, Kerala
 **Learning:** Mobile Dev, AI/ML  
 **Languages:** Python, C, Java, Kotlin, JavaScript  
 **Hobbies:** Badminton, Linux, Open Source
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### Currently
 
@@ -43,12 +41,14 @@ B.Tech CSE, Kerala
 
 <div align="center">
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -152,12 +152,22 @@ AI-powered flood prediction platform for urban India with ward-level forecasts.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LORDv1shnu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LORDv1shnu&theme=radical&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LORDv1shnu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORDv1shnu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORDv1shnu&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  
+  <img src="https://streak-stats.demolab.com/?user=LORDv1shnu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LORDv1shnu&theme=tokyonight" alt="Contribution Graph" />
+  
 </div>
 
 ---
@@ -172,14 +182,8 @@ AI-powered flood prediction platform for urban India with ward-level forecasts.
 
 **Open to collaborations • Always learning 🚀**
 
-</div>
-
----
-
+</div
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
+---
 </div>
