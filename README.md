@@ -61,50 +61,91 @@ B.Tech CSE, Kerala
 
 ## 💡 Projects
 
-### 🔍 [UFDR Analyzer](https://github.com/LORDv1shnu/ufdr-analyzer-sih25) - *SIH'25 Entry*
+<details>
+<summary><b>🔍 UFDR Analyzer</b> - <i>SIH'25 Entry</i></summary>
+<br>
+
+[**View on GitHub →**](https://github.com/LORDv1shnu/ufdr-analyzer-sih25)
+
 AI-powered forensic tool for analyzing digital evidence. Natural language querying, risk scoring, and pattern detection for law enforcement.
 
 **Stack:** Python • Streamlit • Google Gemini AI • SQLite
 
----
+</details>
 
-### 👁️ [SenseVision](https://github.com/LORDv1shnu/SenseVision)
+<details>
+<summary><b>👁️ SenseVision</b></summary>
+<br>
+
+[**View on GitHub →**](https://github.com/LORDv1shnu/SenseVision)
+
 Android app for visually impaired individuals. Real-time AI image captioning with text-to-speech feedback.
 
 **Stack:** Kotlin • CameraX • Flask • AI Image Captioning
 
----
+</details>
 
-### 💰 [Settlr](https://github.com/LORDv1shnu/settlr)
+<details>
+<summary><b>💰 Settlr</b></summary>
+<br>
+
+[**View on GitHub →**](https://github.com/LORDv1shnu/settlr)
+
 Open-source group expense tracker. PWA with auto-calculated splits, offline support, and dark mode.
 
 **Stack:** Java • Spring Boot • React • PostgreSQL
 
----
+</details>
 
-### 🏨 [A10 ROOMZ](https://github.com/LORDv1shnu/hotel-room-booking)
+<details>
+<summary><b>🏨 A10 ROOMZ</b></summary>
+<br>
+
+[**View on GitHub →**](https://github.com/LORDv1shnu/hotel-room-booking)
+
 Full-stack hotel booking system with CRUD operations and date-overlap validation.
 
 **Stack:** Django • Django REST • React • MySQL
 
----
+</details>
 
-### 🍜 [NomNomGo](https://github.com/LORDv1shnu/NomNomGo) *[WIP]*
+<details>
+<summary><b>🍜 NomNomGo</b> - <i>[WIP]</i></summary>
+<br>
+
+[**View on GitHub →**](https://github.com/LORDv1shnu/NomNomGo)
+
 Random restaurant discovery app with map integration.
+
+</details>
 
 ---
 
 ## 🤝 Collaborations
 
-**🎮 [Puzhukkeni-ULP2.0](https://github.com/rohanks-hub/Puzhukkeni-ULP2.0)** - Major Contribution  
+<details>
+<summary><b>🎮 Puzhukkeni-ULP2.0</b> - Major Contribution</summary>
+<br>
+
+[**View on GitHub →**](https://github.com/rohanks-hub/Puzhukkeni-ULP2.0)
+
 Over-engineered alarm clock game built with Flutter. Wake up by tapping worms while dodging birds! (as a part of TinkerHub Useless Projects 2.0)
 
 **Stack:** Flutter • Flame Engine
 
-**🌊 [FloodCast](https://github.com/WanderingHumanid/floodcast)** - Minor Contribution  
+</details>
+
+<details>
+<summary><b>🌊 FloodCast</b> - Minor Contribution</summary>
+<br>
+
+[**View on GitHub →**](https://github.com/WanderingHumanid/floodcast)
+
 AI-powered flood prediction platform for urban India with ward-level forecasts.
 
 **Stack:** Next.js • XGBoost • Leaflet
+
+</details>
 
 ---
 
