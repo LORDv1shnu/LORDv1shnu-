@@ -25,13 +25,7 @@ B.Tech CSE, Kerala
 - 📱 Learning Mobile App Development
 - 🧠 Exploring AI/ML
 - 👥 Leading FOSS Club at my college
-- 💡 Building things that matter
-
-### Quick Facts
-
-- 🏸 Play badminton
-- 🐧 Tinker with Linux
-- ☕ Tea-powered debugging
+- 🎓 Sophomore year
 
 ---
 
@@ -54,8 +48,6 @@ B.Tech CSE, Kerala
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
-
----
 
 ## 💡 Projects
 
@@ -117,8 +109,6 @@ Random restaurant discovery app with map integration.
 
 </details>
 
----
-
 ## 🤝 Collaborations
 
 <details>
@@ -145,8 +135,6 @@ AI-powered flood prediction platform for urban India with ward-level forecasts.
 
 </details>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -167,8 +155,6 @@ AI-powered flood prediction platform for urban India with ward-level forecasts.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LORDv1shnu&theme=tokyonight" alt="Contribution Graph" />
   
 </div>
-
----
 
 ## 📫 Connect
 
