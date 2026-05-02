@@ -1,173 +1,58 @@
-<div align="center">
+# Vishnu Nandan
 
-# Hey there! I'm Vishnu Nandan 👋
+B.Tech CSE sophomore · Christ College of Engineering, Irinjalakuda  
+Technical Lead @ FOSS Club CCE
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+Christ+College;Technical+Lead+%40+FOSS+Club+CCE;Building+Open+Source+Products)](https://git.io/typing-svg)
+I build open-source tools and explore AI/ML and mobile development.  
+Currently learning: Android (Kotlin/Flutter) · Always open to collaborations.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=LORDv1shnu&color=blueviolet&style=for-the-badge)](https://github.com/LORDv1shnu)
-
-</div>
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-**Technical Lead @ FOSS Club CCE**  
-**Christ College of Engineering, Irinjalakuda**  
-B.Tech CSE, Kerala
-
-**Learning:** Mobile Dev, AI/ML  
-**Languages:** Python, C, Java, Kotlin, JavaScript  
-**Hobbies:** Badminton, Linux, Open Source
-
-### Currently
-
-- 📱 Learning Mobile App Development
-- 🧠 Exploring AI/ML
-- 👥 Leading FOSS Club at my college
-- 🎓 Sophomore year
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnunandan555)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vishnunandan555)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/vishnunandan555)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishnunandan555@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=vishnunandan555&style=flat&color=blueviolet)
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-<div align="center">
+**[UFDR Analyzer](https://github.com/LORDv1shnu/ufdr-analyzer-sih25)** — SIH'25  
+AI-powered forensic tool for analyzing digital evidence — natural language querying, risk scoring, and pattern detection for law enforcement.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google-gemini&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**[SenseVision](https://github.com/LORDv1shnu/SenseVision)**  
+Android app for visually impaired users — real-time AI image captioning with text-to-speech feedback.  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![CameraX](https://img.shields.io/badge/CameraX-4285F4?style=flat&logo=android&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**[Settlr](https://github.com/LORDv1shnu/settlr)**  
+Open-source group expense tracker — PWA with auto-calculated splits, offline support, and dark mode.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-</div>
+**[A10 ROOMZ](https://github.com/LORDv1shnu/hotel-room-booking)**  
+Full-stack hotel booking system with CRUD operations and date-overlap validation.  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-FF1709?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 💡 Projects
-
-<details>
-<summary><b>🔍 UFDR Analyzer</b> - <i>SIH'25 Entry</i></summary>
-<br>
-
-[**View on GitHub →**](https://github.com/LORDv1shnu/ufdr-analyzer-sih25)
-
-AI-powered forensic tool for analyzing digital evidence. Natural language querying, risk scoring, and pattern detection for law enforcement.
-
-**Stack:** Python • Streamlit • Google Gemini AI • SQLite
-
-</details>
-
-<details>
-<summary><b>👁️ SenseVision</b></summary>
-<br>
-
-[**View on GitHub →**](https://github.com/LORDv1shnu/SenseVision)
-
-Android app for visually impaired individuals. Real-time AI image captioning with text-to-speech feedback.
-
-**Stack:** Kotlin • CameraX • Flask • AI Image Captioning
-
-</details>
-
-<details>
-<summary><b>💰 Settlr</b></summary>
-<br>
-
-[**View on GitHub →**](https://github.com/LORDv1shnu/settlr)
-
-Open-source group expense tracker. PWA with auto-calculated splits, offline support, and dark mode.
-
-**Stack:** Java • Spring Boot • React • PostgreSQL
-
-</details>
-
-<details>
-<summary><b>🏨 A10 ROOMZ</b></summary>
-<br>
-
-[**View on GitHub →**](https://github.com/LORDv1shnu/hotel-room-booking)
-
-Full-stack hotel booking system with CRUD operations and date-overlap validation.
-
-**Stack:** Django • Django REST • React • MySQL
-
-</details>
-
-<details>
-<summary><b>🍜 NomNomGo</b> - <i>[WIP]</i></summary>
-<br>
-
-[**View on GitHub →**](https://github.com/LORDv1shnu/NomNomGo)
-
+**[NomNomGo](https://github.com/LORDv1shnu/NomNomGo)** *(WIP)*  
 Random restaurant discovery app with map integration.
 
-</details>
+---
 
-## 🤝 Collaborations
+## Collaborations
 
-<details>
-<summary><b>🎮 Puzhukkeni-ULP2.0</b> - Major Contribution</summary>
-<br>
+**[Puzhukkeni-ULP2.0](https://github.com/rohanks-hub/Puzhukkeni-ULP2.0)** — Alarm clock game for TinkerHub Useless Projects 2.0. Wake up by tapping worms while dodging birds.  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Flame](https://img.shields.io/badge/Flame_Engine-FF6600?style=flat&logo=flutter&logoColor=white)
 
-[**View on GitHub →**](https://github.com/rohanks-hub/Puzhukkeni-ULP2.0)
+**[FloodCast](https://github.com/WanderingHumanid/floodcast)** — AI flood prediction platform with ward-level forecasts for urban India.  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=python&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 
-Over-engineered alarm clock game built with Flutter. Wake up by tapping worms while dodging birds! (as a part of TinkerHub Useless Projects 2.0)
+## Skills
 
-**Stack:** Flutter • Flame Engine
-
-</details>
-
-<details>
-<summary><b>🌊 FloodCast</b> - Minor Contribution</summary>
-<br>
-
-[**View on GitHub →**](https://github.com/WanderingHumanid/floodcast)
-
-AI-powered flood prediction platform for urban India with ward-level forecasts.
-
-**Stack:** Next.js • XGBoost • Leaflet
-
-</details>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LORDv1shnu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORDv1shnu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=LORDv1shnu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LORDv1shnu&theme=tokyonight" alt="Contribution Graph" />
-  
-</div>
-
-## 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnunandan555/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishnunandan555/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LORDv1shnu)
-
-**Open to collaborations • Always learning 🚀**
-
-</div
-<div align="center">
+**Languages:** Python · Java · Kotlin · JavaScript · C  
+**Frameworks:** Django · Flask · Spring Boot · React · Flutter  
+**Tools:** Git · Linux · PostgreSQL · SQLite · MySQL
 
 ---
-</div>
+
+## Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=vishnunandan555&limit=5&theme=flat&combine_all_yearly_contributions=true)
