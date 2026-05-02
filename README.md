@@ -22,9 +22,9 @@
 
 > Pursuing B.Tech CSE  ●   [Christ College of Engineering, Irinjalakuda](https://cce.edu.in/)  ●  Technical Lead @ [FOSS Club CCE](https://www.linkedin.com/company/foss-cceijk/)
 
-┌──► Computer science student who **learns by building things**. <br>
-├──► *Exploring open-source, mobile apps, and systems programming*. <br>
-└──► Mostly open-source, mostly self-taught, but **always curious**.
+┌─ Computer science student who **learns by building things**. <br>
+├─ *Exploring open-source, mobile apps, and systems programming*. <br>
+└─ Mostly open-source, mostly self-taught, but **always curious**.
 
 **Currently learning ⤵** <br>
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
