@@ -13,12 +13,12 @@
 </pre>
 </div>
 
-<center>
+<div align="center">
 
  # (^_^)／
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnunandan555)   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vishnunandan555)   [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/vishnunandan555)   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishnunandan555@gmail.com)   ![Profile Views](https://komarev.com/ghpvc/?username=vishnunandan555&style=flat&color=blueviolet)
 
-</center>
+</div>
 
 
 > Pursuing B.Tech CSE  ●   [Christ College of Engineering, Irinjalakuda](https://cce.edu.in/)  ●  Technical Lead @ [FOSS Club CCE](https://www.linkedin.com/company/foss-cceijk/)
@@ -46,7 +46,7 @@ Bubblewrap based linux sandbox engine. Runs untrusted commands inside disposable
 ↳Cordon was the precursor to this idea [(view archived repo)](https://github.com/vishnunandan555/Cordon)
 
 **[UFDR Analyzer](https://github.com/vishnunandan555/ufdr-analyzer-sih25)** `SIH'25 (Demo)`  
-AI-powered forensic tool for analyzing digital evidence. Natural language querying, risk scoring, and pattern detection for law enforcement creatd as a part of SIH '25's Demo.  
+AI-powered forensic tool for analyzing digital evidence. Natural language querying, risk scoring, and pattern detection for law enforcement.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google-gemini&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **[SenseVision](https://github.com/vishnunandan555/SenseVision)**  
@@ -73,6 +73,6 @@ Open-source group expense tracker. PWA with auto-calculated splits, offline supp
 
 ---
 
-## Top Contributions
+## Activity
 
-![](https://github-contributor-stats.vercel.app/api?username=vishnunandan555&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnunandan555&theme=github-compact&hide_border=true)
