@@ -1,11 +1,31 @@
-# I'm Vishnu Nandan (^_^)／
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnunandan555)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vishnunandan555)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/vishnunandan555)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishnunandan555@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=vishnunandan555&style=flat&color=blueviolet)
+<div align="center">
+<pre>
 
-> B.Tech CSE  ●   [Christ College of Engineering, Irinjalakuda](https://cce.edu.in/)  ●  Technical Lead @ [FOSS Club CCE](https://www.linkedin.com/company/foss-cceijk/)
+█   ▄▀█ █▀▄▀█
+█   █▀█ █░▀░█
+
+██╗░░░██╗██╗░██████╗██╗░░██╗███╗░░██╗██╗░░░██╗  ███╗░░██╗░█████╗░███╗░░██╗██████╗░░█████╗░███╗░░██╗
+██║░░░██║██║██╔════╝██║░░██║████╗░██║██║░░░██║  ████╗░██║██╔══██╗████╗░██║██╔══██╗██╔══██╗████╗░██║
+╚██╗░██╔╝██║╚█████╗░███████║██╔██╗██║██║░░░██║  ██╔██╗██║███████║██╔██╗██║██║░░██║███████║██╔██╗██║
+░╚████╔╝░██║░╚═══██╗██╔══██║██║╚████║██║░░░██║  ██║╚████║██╔══██║██║╚████║██║░░██║██╔══██║██║╚████║
+░░╚██╔╝░░██║██████╔╝██║░░██║██║░╚███║╚██████╔╝  ██║░╚███║██║░░██║██║░╚███║██████╔╝██║░░██║██║░╚███║
+░░░╚═╝░░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░  ╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝
+</pre>
+</div>
+
+<center>
+
+ # (^_^)／
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnunandan555)   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vishnunandan555)   [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/vishnunandan555)   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishnunandan555@gmail.com)   ![Profile Views](https://komarev.com/ghpvc/?username=vishnunandan555&style=flat&color=blueviolet)
+
+</center>
+
+
+> Pursuing B.Tech CSE  ●   [Christ College of Engineering, Irinjalakuda](https://cce.edu.in/)  ●  Technical Lead @ [FOSS Club CCE](https://www.linkedin.com/company/foss-cceijk/)
+
+
+
+
 
 ╔═ Computer science student who **learns by building things**. <br>
 ╠═ *Exploring open-source, mobile apps, and systems programming*. <br>
@@ -20,10 +40,10 @@
 
 ## Projects
 
-**[L.I.O.N](https://github.com/A56-A5/lion)**       ` 🏆 Hackathena'26 · 3rd Prize`  
+**[L.I.O.N](https://github.com/A56-A5/lion)** `🏆 Hackathena'26 · 3rd Prize`  
 Bubblewrap based linux sandbox engine. Runs untrusted commands inside disposable namespace cages with live file-access observability, environment scrubbing, and domain-filtered network control with monitoring.  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-<sub>↳Cordon was the precursor to this idea [(view archived repo)](https://github.com/vishnunandan555/Cordon)</sub>
+↳Cordon was the precursor to this idea [(view archived repo)](https://github.com/vishnunandan555/Cordon)
 
 **[UFDR Analyzer](https://github.com/vishnunandan555/ufdr-analyzer-sih25)** `SIH'25 (Demo)`  
 AI-powered forensic tool for analyzing digital evidence. Natural language querying, risk scoring, and pattern detection for law enforcement creatd as a part of SIH '25's Demo.  
