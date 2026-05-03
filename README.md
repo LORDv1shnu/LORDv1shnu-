@@ -72,6 +72,6 @@ Open-source group expense tracker. PWA with auto-calculated splits, offline supp
 
 --- 
 
-## Top Contributors
+## My Top Contributors 🏆
 
-![Top Contributors](https://top-contributors-api.vercel.app/api/contributors?username=vishnunandan555)
+![Top Contributors](https://top-contributors-api.vercel.app/api/contributors)
