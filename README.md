@@ -74,7 +74,6 @@ Open-source group expense tracker. PWA with auto-calculated splits, offline supp
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnunandan555&theme=github-compact&hide_border=true)
 
---- 
 
 ## My Top Contributors 🏆
 
