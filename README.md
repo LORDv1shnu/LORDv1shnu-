@@ -35,6 +35,10 @@
 
 ## Projects
 
+**❯ [Top Contributors API](https://github.com/vishnunandan555/top-contributors-api)**  
+Zero-config GitHub image endpoint, hosted on Vercel and powered by GitHub Actions, that aggregates contributors across all your repos and shows the top contributors in your README.  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 **❯ [L.I.O.N](https://github.com/A56-A5/lion)** `🏆 Hackathena'26 · 3rd Prize`  
 Bubblewrap based linux sandbox engine. Runs untrusted commands inside disposable namespace cages with live file-access observability, environment scrubbing, and domain-filtered network control with monitoring.  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
