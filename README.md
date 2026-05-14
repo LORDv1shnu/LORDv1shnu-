@@ -74,7 +74,7 @@ Open-source group expense tracker. PWA with auto-calculated splits, offline supp
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1702](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/1702) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+1. 🗣 Commented on [#722](https://github.com/AOSSIE-Org/Website/issues/722#issuecomment-4441460469) in [AOSSIE-Org/Website](https://github.com/AOSSIE-Org/Website)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnunandan555&theme=github-compact&hide_border=true)
