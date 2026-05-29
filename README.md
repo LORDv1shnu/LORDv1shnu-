@@ -31,9 +31,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-1F8A3D?style=flat&logo=android&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 
 ## Projects
+
+**❯ [GATE Progress Tracker](https://github.com/vishnunandan555/gate-tracker)**  
+An offline-first GATE Exam Preparation Progress Tracker available across Android, Windows, Linux, and offline Web PWA. Built with Drift (SQLite relational database), it features zero-dependency local WebAssembly preloading for instant web boot times, interactive study analytics, and a fully integrated automatic self-updater.  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Android](https://img.shields.io/badge/Android-1F8A3D?style=flat&logo=android&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **❯ [Top Contributors API](https://github.com/vishnunandan555/top-contributors-api)**  
 Zero-config GitHub image endpoint, hosted on Vercel and powered by GitHub Actions, that aggregates contributors across all your repos and shows the top contributors in your README.  
