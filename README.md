@@ -16,7 +16,7 @@
 <div align="center">
 
  # (^_^)／
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnunandan555)   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vishnunandan555)   [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/vishnunandan555)   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishnunandan555@gmail.com)   ![Profile Views](https://komarev.com/ghpvc/?username=vishnunandan555&style=flat&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnunandan555)   [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vishnunandan555)   [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/vishnunandan555)   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishnunandan555@gmail.com)   ![Profile Views](https://komarev.com/ghpvc/?username=vishnunandan555&style=flat&color=blueviolet)
 
 </div>
 
