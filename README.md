@@ -92,7 +92,7 @@ Android app for visually impaired users. Real-time AI image captioning with text
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/AOSSIE-Org/Ogh/pull/6) in [AOSSIE-Org/Ogh](https://github.com/AOSSIE-Org/Ogh)
+1. 🚀 Published release [eSim 2.5 Ubuntu 25.04 zip release (Task 4)](https://github.com/vishnunandan555/eSim/releases/tag/v2.5-ubuntu25.04-26i-task4) in [vishnunandan555/eSim](https://github.com/vishnunandan555/eSim)
 <!--END_SECTION:activity-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishnunandan555&theme=github-compact&hide_border=true)
